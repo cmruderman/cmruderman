@@ -1,5 +1,5 @@
 # Hi, I'm Corey 👋
 
-I'm an Engineering Manager @ Stitch, a Talend Company
+I'm a Software Engineer @ Omni
 
 Find me on <a href="https://www.linkedin.com/in/coreyruderman/">LinkedIn</a>
